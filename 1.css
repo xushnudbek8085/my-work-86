@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    margin: auto;
+}
+body {
+    background-color: aqua;
+}
+.box1 {
+    background-color: blue;
+    width: 300px;
+    height: 500px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+button {
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid white;
+}
+.box2 {
+    background-color: white;
+    color: blue;
+    width: 300px;
+    height: 500px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.q1 {
+    color: white;
+    background: blue;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid blue;
+}
